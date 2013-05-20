@@ -1,5 +1,9 @@
 # Jekyll-Bootstrap
 
+## Test
+
+![](http://roberts-sandbox.github.io/test-anik/assets/images/Me-at-BarCamp-Goa-2011.jpg)
+
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
